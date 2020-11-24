@@ -8,9 +8,11 @@ https://docs.oracle.com/en/java/javase/15/install/overview-jdk-installation.html
 <br/>
 Open JDK For Ubuntu
 <br/>
-$ sudo apt update
+# $ 
+sudo apt update
 <br/>
-$ sudo apt install default-jdk
+# $ 
+sudo apt install default-jdk
 
 # Install MAVEN
 Make sure MAVEN is installed in the system.
@@ -19,12 +21,15 @@ https://maven.apache.org/
 <br/>
 Maven For Ubuntu
 <br/>
-$ sudo apt-get install maven
+# $ 
+sudo apt-get install maven
 
 # Build
 Please clone the project and navigate to the project.
 <br/>
-$ mvn clean package -DskipTests=true
+# $ 
+mvn clean package -DskipTests=true
 
 # Run
-$ java -jar target/dhee-widget-examples-0.0.1-SNAPSHOT.jar
+# $ 
+java -jar target/dhee-widget-examples-0.0.1-SNAPSHOT.jar
