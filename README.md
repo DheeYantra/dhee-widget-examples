@@ -2,10 +2,11 @@
 Example HTML files showing default and customized usage of Dhee.AI's web widget.
 
 # Prerequisites
-Java, Maven.
+Java 8+, 
+Maven
 
 # Build
-Please clone the project and navigate to the project.
+Clone the project and navigate to the project folder.
 <br/>
 <b> $ </b> mvn clean package -DskipTests=true
 
