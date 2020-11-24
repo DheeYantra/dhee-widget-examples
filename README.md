@@ -2,7 +2,7 @@
 Example HTML files showing default and customized usage of Dhee.AI's web widget.
 
 # Install JAVA
-Make sure JAVA 8 or above version is installed in the system.
+Make sure JAVA 8 or above version is installed in the system. 
 https://docs.oracle.com/en/java/javase/15/install/overview-jdk-installation.html#GUID-8677A77F-231A-40F7-98B9-1FD0B48C346A
 
 Open JDK For Ubuntu
