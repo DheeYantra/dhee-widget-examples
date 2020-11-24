@@ -1,11 +1,14 @@
 # dhee-widget-examples
 Example HTML files showing default and customized usage of Dhee.AI's web widget.
 
+E.g. of Launching with a custom intent : https://github.com/DheeYantra/dhee-widget-examples/blob/main/src/main/resources/static/index.html
+
 # Prerequisites
-Java, Maven.
+Java 8+, 
+Maven
 
 # Build
-Please clone the project and navigate to the project.
+Clone the project and navigate to the project folder.
 <br/>
 <b> $ </b> mvn clean package -DskipTests=true
 
